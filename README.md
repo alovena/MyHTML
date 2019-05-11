@@ -3,7 +3,7 @@
 ---------------------
 나의 포트폴리오 홈페이지
 
-##Getting Started
+## Getting Started
 ======
 
 ##
