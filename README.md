@@ -5,7 +5,7 @@
 * 카카오 메인화면 페이지
 * 간단한 Form 양식 페이지
 ## Getting Started
-항
+Create my own custom web page
 
 ## Link URL
 
