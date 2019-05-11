@@ -1,4 +1,4 @@
-<img src="./image/strawberry.jpg" width="150" height="150"></img>
+<img src="./image/strawberry.png" width="150" height="150"></img>
 # Project Title
 ---------------------
 * 나의 포트폴리오 홈페이지
